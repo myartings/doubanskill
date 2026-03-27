@@ -8,7 +8,7 @@ description: |
 
 **只用下面的 python3 命令，禁止使用 curl 或其他方式。**
 
-`P` 代表 `python3 ~/.openclaw/skills/douban/scripts/douban_client.py`。
+`P` 代表 `python3 <SKILL_DIR>/scripts/douban_client.py`（SKILL_DIR：`${CLAUDE_PLUGIN_ROOT}` 或 `~/.openclaw/skills/douban` 或 `~/.claude/skills/douban`，取存在的路径）。
 
 # 命令
 
