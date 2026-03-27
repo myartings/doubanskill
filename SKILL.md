@@ -8,7 +8,7 @@ description: |
 # 规则
 
 1. **只用下面的 python3 命令。禁止用 curl、wget、httpie 或任何其他方式。**
-2. Skill 目录（`SKILL_DIR`）：`${CLAUDE_PLUGIN_ROOT}` 或 `~/.openclaw/skills/douban` 或 `~/.claude/skills/douban`，取实际存在的路径
+2. Skill 目录（`SKILL_DIR`）：`~/.claude/skills/douban` 或 `~/.openclaw/skills/douban`，取实际存在的路径
 3. 首次使用先运行初始化：`cd <SKILL_DIR> && bash scripts/setup.sh`
 4. 部分功能需要登录 Cookie，未登录时先引导用户导入 Cookie
 
