@@ -1,0 +1,9 @@
+{
+  "name": "douban",
+  "version": "1.0.0",
+  "description": "豆瓣搜索助手：搜索电影/图书/音乐、查看详情和评论",
+  "author": { "name": "myartings" },
+  "repository": "https://github.com/myartings/doubanskill",
+  "license": "MIT",
+  "keywords": ["douban", "豆瓣", "电影", "图书"]
+}
